@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ultimate 行业培训课件"
+  short_description: "使用ImageGen整页直接生图，统一客户品牌与行业案例，字号按内容密度适度调整"
+  default_prompt: "请使用 $ultimate-courseware，用ImageGen或当前可用的Images2.5逐页直接生图制作客户培训课件，落实品牌封面、行业案例和统一配色，正文28号标题40号为优先目标，密集页可适度放宽并核对投影可读性。"
